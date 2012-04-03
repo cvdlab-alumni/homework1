@@ -1,5 +1,5 @@
 # Homework assignment n.1
-**Computational Visual Design ([CVD-Lab](https://github.com/cvd-lab))**  
+**Computational Visual Design Lab ([CVDLab](https://github.com/cvd-lab))**  
 **DIA, "Roma Tre" University, Rome, Italy**  
 **Computational Graphics 2012**  
 
@@ -19,14 +19,16 @@ using the `Plasm.js` development environment found at [http://cvd-lab.github.com
 
 ## Exercise 1
 
-Reproduce, using only the `POLYLINE` and the `STRUCT` primitives,  
-a 2D model of the floor plan of the Barcelona Pavilion.  
+Reproduce a 2D model of the floor plan of the Barcelona Pavilion  
+using only the plasm.js primitives `POLYLINE` and `STRUCT`.
 
-Let assume the grid of squares on the floor be 1.0m x 1.0m.
+Let assume the grid of squares on the floor be `1.0m` x `1.0m`.
 
 ## Exercise 2
 
-Write a JavaScript 3D model of the Pavilion, using only  the `SIMPLEX_GRID` and the `STRUCT` primitives.  
+Reproduce a 3D model of the Barcellona Pavilion  
+using only  the `SIMPLEX_GRID` and the `STRUCT` primitives.  
+
 Affine transformations `T`,  `S` or  `R` are also allowed. 
 
 ## Exercise 3
@@ -35,7 +37,8 @@ Produce a colored version of the previous model.
 
 ## Exercise 4
 
-Model one piece of furniture, at your choice, and instance it one or more times inside the 3D model
+Reproduce a 3D model of one piece of furniture, at your choice,  
+and instance it one or more times inside the Pavillion.
 
 # Assignment delivery
 
