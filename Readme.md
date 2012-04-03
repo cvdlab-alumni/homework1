@@ -27,7 +27,7 @@ Let assume the grid of squares on the floor be `1.0m` x `1.0m`.
 ## Exercise 2
 
 Reproduce a 3D model of the Barcellona Pavilion  
-using only  the `SIMPLEX_GRID` and the `STRUCT` primitives.  
+using only the plasm.js primitives `SIMPLEX_GRID` and `STRUCT`.
 
 Affine transformations `T`,  `S` or  `R` are also allowed. 
 
