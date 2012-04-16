@@ -1,3 +1,7 @@
+# [Homework assignment n.1 results](https://github.com/cvdlab-cg/homework1/blob/master/hw1-results.md)
+
+- - -
+
 # TIME'S UP :)
 
 ### YOUR LAST PUSH WILL BE CONSIDERED
