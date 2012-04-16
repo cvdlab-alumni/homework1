@@ -8,7 +8,7 @@
 
 220279      A     A     A     B     A     12.6
 228091      B/C   D     C/D   B     C      7.5
-240728      B     B     C     X     B      8.4
+240728      B     B     C     C     B/C    9.5
 258942      A     B/C   B/C   C     B      9.9
 261921      A     A++   A     A     A     13.9
 265629      A     A     A     A     A     13
