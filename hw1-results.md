@@ -23,7 +23,7 @@
 283875      B     A/B   A/B   B     A     11.5
 283890      A     A     A     A+    A     13.2
 403266      B     B/C   B     B     A     10.5
-404033      X     X     X     X     X      0
+404033      A     A     A     A     X     12.0
 404035      A     A     A     B     A     12.6
 404040      A/B   A/B   A     B     A     11.9
 404688      A     A     A     A/B   B     12.3
