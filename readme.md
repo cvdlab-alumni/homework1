@@ -39,6 +39,10 @@ Define, with names `north`, `south`, `east`, and `west`, the 4 models of vertica
 
 Define and color (`BLACK`) the models of (some) windows, and instance them within the `building` model.
 
+## Exercise 5
+
+Define with names `stair1`, `stair2`, and `stair3` (from bottom up to top), and insert within the `building` model, the 3 stair models of the building.
+
 # Assignment delivery
 
 For each exercise you must produce a corresponding file `exercise1.js`, `exercise1.py`, etc.  
@@ -59,6 +63,7 @@ where `xxxxxx` is the student ID  (matricola).
   | +- exercise2.js
   | +- exercise3.js
   | +- exercise4.js
+  | +- exercise5.js
   |
   +- python
     |
@@ -66,6 +71,7 @@ where `xxxxxx` is the student ID  (matricola).
     +- exercise2.py
     +- exercise3.py
     +- exercise4.py
+    +- exercise5.py
 ```
 
 The delivery is strictly required within 24 hours from the publication of the homework.
