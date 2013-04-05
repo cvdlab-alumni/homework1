@@ -10,7 +10,7 @@
 
 # Notes
 
-Several documentation is stored in this [archive](../citrohan.zip).   
+Several documentation is stored in this [archive](./citrohan.zip).   
 Useful links are [here](http://www.youtube.com/watch?v=bsmWdSI28RY) and [here](http://www.youtube.com/watch?feature=player_detailpage&v=m4QwVi5U5is).
 
 First spend time to fully understand the structure of the building,   
