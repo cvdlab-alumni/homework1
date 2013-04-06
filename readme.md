@@ -1,3 +1,9 @@
+# TIME'S UP :)
+
+### YOUR LAST PUSH WILL BE CONSIDERED
+
+- - -
+
 # Homework assignment n.1
 **Computational Visual Design Lab ([CVDLab](https://github.com/cvdlab))**  
 **"Roma Tre" University, Rome, Italy**  
