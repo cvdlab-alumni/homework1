@@ -58,8 +58,8 @@
 427610     10     Z     Z     Z     Z     Z     Z          0
 427966     8      Z     Z     Z     Z     Z     Z          0
 428286     10     Z     Z     Z     Z     Z     Z          0
-428590     11     Z     Z     Z     Z     Z     Z          0
-428800     11     Z     Z     Z     Z     Z     Z          0
+428590            X     X     X     X     X     X          0
+428800            A     A/B	  A/B	  B	    C	    A          8.88
 429006     8      Z     Z     Z     Z     Z     Z          0
 429459            A     B/C   B/C   B/C   X     A          7.19
 430013            A     A     A     B     X     C          8.44
