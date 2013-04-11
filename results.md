@@ -33,7 +33,7 @@
 405769            A     A     A     A     A     A          10
 407842     3      Z     Z     Z     Z     Z     Z          0
 413937            A     A     A     A     A     C          9.63
-415358     4      X     X     X     X     X     C          0.56
+415358     4      Z     Z     Z     Z     Z     C          0.56
 415870     5      Z     Z     Z     Z     Z     Z          0
 415873     4      Z     Z     Z     Z     Z     Z          0
 416886            A     A/B   A/B   B/C   B     C          8.56
