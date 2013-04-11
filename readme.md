@@ -1,3 +1,7 @@
+# [Homework assignment n.1 results](./results.md)
+
+- - -
+
 # TIME'S UP :)
 
 ### YOUR LAST PUSH WILL BE CONSIDERED
