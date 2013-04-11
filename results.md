@@ -52,7 +52,7 @@
 426052     8      Z     Z     Z     Z     Z     Z          0
 426271            A/B   B/C   D     C     B     C          6.5
 426816     8      Z     Z     Z     Z     Z     Z          0
-427098     ~9     A     B     B/C   B/C   X     A          7.44
+427098            A     A     B/C   B/C   X     A          7.94
 427216     10     Z     Z     Z     Z     Z     Z          0
 427610     10     Z     Z     Z     Z     Z     Z          0
 427966     8      Z     Z     Z     Z     Z     Z          0
@@ -60,8 +60,8 @@
 428590     11     Z     Z     Z     Z     Z     Z          0
 428800     11     Z     Z     Z     Z     Z     Z          0
 429006     8      Z     Z     Z     Z     Z     Z          0
-429459            A     C     C     X     X     A          5.81
-430013     ~9     A     A     A     B     X     C          8.44
+429459            A     B/C   B/C   B/C   X     A          7.19
+430013            A     A     A     B     X     C          8.44
 431816     4      Z     Z     Z     Z     Z     Z          0
 442999            C     C/D   C     C     C/D   A          6.03
 453908            A     A     A/B   C     A     A          9.25
