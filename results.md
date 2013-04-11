@@ -54,6 +54,7 @@
 426816     8      Z     Z     Z     Z     Z     Z          0
 427098            A     A     B/C   B/C   X     A          7.94
 427216     10     Z     Z     Z     Z     Z     Z          0
+427501            A     A/B   A/B   B/C   D     X          7.63
 427610     10     Z     Z     Z     Z     Z     Z          0
 427966     8      Z     Z     Z     Z     Z     Z          0
 428286     10     Z     Z     Z     Z     Z     Z          0
