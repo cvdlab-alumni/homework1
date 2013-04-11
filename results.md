@@ -27,7 +27,7 @@
 404039            A     A/B   A/B   B/C   B     A          8.94
 404693            A     C     X     X     X     A          4.31
 405150            B     B     B     X     X     C          6.06
-405509            B     X     C     X     X     A          3.94
+405509            B     B     B/C   X     X     A          6.19
 405510     13     Z     Z     Z     Z     Z     Z          0
 405512            A     A/B   B     X     X     A          7.06
 405769            A     A     A     A     A     A          10
