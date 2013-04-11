@@ -75,7 +75,7 @@
 
 #### Legend
 
-`T` - team ID (if any)
+`T` - team ID (if any)  
 `1` - exercise 1  
 `2` - exercise 2  
 `3` - exercise 3  
