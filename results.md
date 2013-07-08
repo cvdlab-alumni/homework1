@@ -1,4 +1,4 @@
- # Homework assignment n.1 results
+# Homework assignment n.1 results
 
  **For any questions about homework**  
  **Thursday (today) 11th, 14:00 - 17:00, CVD Lab**
