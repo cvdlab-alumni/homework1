@@ -74,7 +74,7 @@ Define and insert at least one `stair` within either the `mock_up_3D` or the `so
 # Assignment delivery
 
 For the exercise 0 you must produce a file named `index.html`.  
-For each other exercise you must produce a corresponding file `exercise1.py`, `exercise2.py`, etc. 
+For any other exercise you must produce a corresponding file `exercise1.py`, `exercise2.py`, etc. 
 All the .py file must be enclosed within a directory `python`.   
 Such directories must be contained in a directory entitled `2014-03-21`,   
 pushed into the personal GitHub repository of the student: [https://github.com/cvdlab-cg/xxxxxx](https://github.com/cvdlab-cg/)   
