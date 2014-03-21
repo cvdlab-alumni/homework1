@@ -1,7 +1,7 @@
 # Homework assignment n.1
 **Computational Visual Design Lab ([CVDLab](https://github.com/cvdlab))**  
 **"Roma Tre" University, Rome, Italy**  
-**Computational Graphics 2013**
+**Computational Graphics 2014**
 
 ## Introduction 
 
